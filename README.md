@@ -1,7 +1,7 @@
 ## Contents
 
-+ `data` : our dataset, as well as the feature files to feed ou models
-+ `importdata` : ETL pipeline to get Wikipedia data in SQL database. Does not work *as is* on new data, as the entity extractor is proprietory and no alternative has been implemented so far.
++ `data` : our dataset, as well as the feature files to feed our models
++ `importdata` : ETL pipeline to get Wikipedia data in SQL database, and files creating the features. Does not work *as is* on new data, as the entity extractor is proprietory and no alternative has been implemented so far.
 + `models` : our models for comparing benchmark and our approach of detection before classification
 
 ## Data
